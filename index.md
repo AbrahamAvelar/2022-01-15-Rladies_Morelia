@@ -351,7 +351,7 @@ rows to the table if you wish to break down the schedule
 further. To use this custom schedule here, replace the block
 of code below the Schedule `<h2>` header below with
 `{% include custom-schedule.html %}`.
-{% endcomment %}
+AquiEstabaEndComment
 
 <h2 id="schedule">Schedule</h2>
 
@@ -365,6 +365,8 @@ of code below the Schedule `<h2>` header below with
 This workshop is teaching a lesson in [The Carpentries Incubator](https://carpentries-incubator.org/).
 Please check [the lesson homepage]({{ site.incubator_lesson_site }}) for a list of lesson sections and estimated timings.
 {% endif %}
+{% endcomment %}
+{% include custom-schedule.html %}
 
 {% comment %}
 Edit/replace the text above if you want to include a schedule table.
