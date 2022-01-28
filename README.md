@@ -2,6 +2,8 @@
 
 # The Carpentries Workshop Template
 
+The link for the published page is: https://abrahamavelar.github.io/2022-01-15-Rladies_Morelia/
+
 This repository is The Carpentries' ([Software Carpentry][swc-site], [Data Carpentry][dc-site], and
 [Library Carpentry][lc-site]'s) template for creating websites for workshops.
 
